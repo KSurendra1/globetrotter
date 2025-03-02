@@ -65,7 +65,7 @@ function App() {
       <div className="absolute w-96 h-96 bg-indigo-800/30 rounded-full -top-48 -left-48 mix-blend-screen animate-blob"></div>
       <div className="absolute w-96 h-96 bg-cyan-600/20 rounded-full -top-32 -right-64 mix-blend-screen animate-blob animation-delay-2000"></div>
       <div className="text-white/50 absolute bottom-0 bg-[#112D4E] w-full text-center p-1">
-        Made by Piyush Patel (piyushpatel1746@gmail.com) as part of headout
+        Made by Kuruva Surendra Kumar (akkisurya08@gmail.com) as part of headout
         assignment
       </div>
     </div>
